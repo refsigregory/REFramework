@@ -9,7 +9,6 @@
  define('REF_ENV', 'development'); // development | testing | production
  define('REF_PREFIX', 'ref');
 
-
  require_once REF_PREFIX . '-core/loader.php';
 
 ?>
